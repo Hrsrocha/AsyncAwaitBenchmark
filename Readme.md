@@ -27,3 +27,7 @@ O pacote utilizado para esse projeto foi:
 | Plugin | Versão |
 | ------ | ------ |
 | BenchmarkDotNet | 0.12.1 |
+
+### Observações
+
+O projeto foi dividido nas famosas "camadas do DDD", e foi feito propositalmente devido ao número alto de projetos no mercado com esse "formato".
