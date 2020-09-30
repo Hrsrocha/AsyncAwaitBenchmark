@@ -1,6 +1,6 @@
 # AsyncAwaitBenchmark
 
-Este projeto tem como estudo analisar o que é jerado no IL para entender como a state machine do C# funciona 
+Este projeto tem como estudo analisar o que é gerado no IL para entender como a state machine do C# funciona 
 Esse projeto é destinado a estudos de uso de Async/Await para entender como o state machine do C# funciona
 
 Para isso, comparei:
